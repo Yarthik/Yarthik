@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ***Kartik Kaushik***
 - 👀 I’m interested in ... `Machine Learning and AI`
-- 🌱 I’m currently learning ... `Data Science`
+- 🌱 I’m currently learning ... ` About Data Science`
 - 💞️ I’m looking to collaborate on ... `Any Machine Learning or AI project`
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kartik-kaushik-446b61177/)
 
